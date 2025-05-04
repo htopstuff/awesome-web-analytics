@@ -28,49 +28,23 @@ Your feedback and contributions are always welcome!
 * [PostHog](https://posthog.com) - Open-source product analytics to track users, events, funnels and trends. Alternative to Mixpanel/Amplitude/Heap. Also includes session recording (alternative to HotJar) and feature flag/experimentation tools (alternative to Optimizely).([Source Code](https://github.com/posthog/posthog)) `MIT` `Python`
 * [Matomo](https://matomo.org/) - Leading open-source analytics platform that gives you more than just powerful analytics, formerly known as Piwik. ([Source Code](https://github.com/matomo-org/)) `GPL-3.0` `PHP`
 * [Heap](https://heap.io) - tracks your app users, clicks, form submissions, and anything else. `©` `SaaS`
-* [Opentracker](http://www.opentracker.net/) - real time reporting, geo-location user tracking. `©` `SaaS`
-* [FoxMetrics](http://foxmetrics.com/) - analytics to track your user’s actions and activities. `©` `SaaS`
 * [Adobe Analytics](https://www.adobe.com/analytics/web-analytics.html) - web data into insights that everyone can act on. `©` `SaaS`
 * [Google Analytics](https://www.google.com/analytics/) - de facto standard for analytics in the web analytics space. `©` `SaaS`
-* [Screpy](https://screpy.com) - Screpy is a web analyzer and monitoring tool. Its powered by Google Lighthouse. `©` `SaaS`
-* [Clicktale](https://www.clicktale.com) - record and watch exactly how a visitor used your website. `©` `SaaS`
-* [GoSquared](https://www.gosquared.com/) - analytics with visitor tagging to help you dig deeper into one user’s visit. `©` `SaaS`
-* [Clicky](http://clicky.com/) - track visits and conversions, you can also track your video and audio analytics. `©` `SaaS`
-* [Woopra](https://www.woopra.com/) - track where your users are coming from. `©` `SaaS`
-* [Mint](https://haveamint.com/) - self-hosted analytics solution (no longer on sale).  `©` `SaaS`
-* [Going Up](https://www.goingup.com/) - manage SEO analytics and web app analytics with one tool. `©` `SaaS`
-* [Chartbeat](https://chartbeat.com/) - beautiful, real-time app analytics tool for web apps. `©` `SaaS`
+* [Clicky](https://clicky.com/) - track visits and conversions, you can also track your video and audio analytics. `©` `SaaS`
 * [Gauges](http://get.gaug.es/) - real-time web analytics tool. `©` `SaaS`
-* [Indicative](https://www.indicative.com/) - Web & mobile analytics tool, with heavy emphasis on segmentation and funnel visualization. `©` `SaaS`
 * [Open Web Analytics](http://www.openwebanalytics.com/) - Google Analytics and Matomo alternative. ([Source Code](https://github.com/padams/Open-Web-Analytics)) `GPL-2.0` `PHP`
 * [Statcounter](https://statcounter.com/) - one of the ORIGINAL web analytics tools available. `©` `SaaS`
-* [Adobe Digital Analytics](http://www.adobe.com/data-analytics-cloud/analytics/capabilities.html) - standard analytics tools plus some that large organizations can use. `©` `SaaS`
 * [Hitslink.com](https://www.hitslink.com/) - real-time analytics, social media traffic reporting, and real-time dynamic segmentation. `©` `SaaS`
 * [parse.ly](https://www.parse.ly) - real-time web analytics tool with a focus on tracking content. `©` `SaaS`
-* [Loggr](http://loggr.net/) -  track your user events and monitor your web app. `©` `SaaS`
-* [Kissmetrics](https://www.kissmetrics.com/) - real-time standard cohort analysis tool. `©` `SaaS`
-* [Sitemeter](http://sitemeter.com/) - old analytics tool. `©` `SaaS`
-* [Crawl Track](http://www.crawltrack.net/) - another old analytics tool. `©` `SaaS`
 * [Sitespect](https://www.sitespect.com/) - full-suite web app analytics tool including A/B testing. `©` `SaaS`
-* [Rakam](https://rakam.io/) - Custom analytics platform that lets you to create your own analytics service. Integrate with any data source (web, mobile, IoT etc.), analyze data with SQL and create dashboards. ([Source Code](https://github.com/rakam-io/rakam)) `Apache-2.0` `Java`
-* [Metabase](https://www.metabase.com) - opensource analytics/BI tool  `©` `SaaS`
 * [LiveSession](https://livesession.io) - session replay user analytics. `©` `SaaS`
-* [Glassbox](https://glassboxdigital.com/) - customer experince and session recording analytics. `©` `SaaS`
-* [Redash](https://redash.io/) - open source analytics/BI tool `©` `SaaS`
-* [AWStats](http://www.awstats.org/) - Generates web, streaming, ftp or mail server statistics graphically. ([Source Code](https://github.com/eldy/awstats)) `GPL-3.0` `Perl`
+* [AWStats](https://www.awstats.org/) - Open source, generates web, streaming, ftp or mail server statistics graphically. ([Source Code](https://github.com/eldy/awstats)) `GPL-3.0` `Perl`
 * [Countly](https://count.ly) - Real time mobile and web analytics, crash reporting and push notifications platform. ([Source Code](https://github.com/countly)) `AGPL-3.0` `Javascript`
-* [Druid](http://druid.io/) - Distributed, column-oriented, real-time analytics data store. ([Source Code](https://github.com/druid-io/druid)) `Apache-2.0` `Java`
-* [Hastic](https://hastic.io) - Hackable time series pattern recognition tool with UI for Grafana. ([Source Code](https://github.com/hastic)) `Apache-2.0` `Python/Nodejs`
-* [EDA](https://eda.jortilles.com/en/jortilles-english/) - Open source analytics/BI tool.  ([Source Code](https://github.com/jortilles/EDA)) `Apache-2.0` `Angular/Nodejs`
-* [Count](https://count.co/) - notebook-based analytics platform, use SQL or drag-and-drop to build queries. `©` `SaaS`
 
 ## Real-time
 
-* [GoAccess](http://goaccess.io/) - Real-time web log analyzer and interactive viewer that runs in a terminal. ([Source Code](https://github.com/allinurl/goaccess)) `GPL-2.0` `C`
+* [GoAccess](http://goaccess.io/) - Real-time web log analyzer and interactive viewer that runs in a terminal. Nearly all web log formats (Apache, Nginx, Amazon S3, Elastic Load Balancing, CloudFront, Caddy, etc). ([Source Code](https://github.com/allinurl/goaccess)) `GPL-2.0` `C`
 
-## Website analytics
-
-* [KISSS](https://kis3.dev) - Very minimalistic (KISS) website statistics tool. ([Source Code](https://github.com/kis3/kis3)) `MIT` `Go`
 
 ## Endpoints
 * [Census](https://getcensus.com/) - The easiest way to sync your customer data from your cloud data warehouse to SaaS applications like Salesforce, Marketo, HubSpot, Zendesk, etc. Census is the operational analytics platform that syncs your data warehouse with all your favorite apps. Get your customer success, sales & marketing teams on the same page by keeping customer data in sync. No engineering favors required—just SQL. `SaaS`
